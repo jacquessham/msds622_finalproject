@@ -1,0 +1,9 @@
+Reference post
+https://towardsdatascience.com/i-highly-recommend-scotch-21cd7173078a
+Total wine
+https://www.totalwine.com/spirits/scotch/c/000885?tab=fullcatalog&beerspiritscountrystate=scotland&spiritsvarietaltype=single-malt&spiritsvolume=standard-size-750-ml&pagesize=180
+Kaggle
+https://www.kaggle.com/koki25ando/scotch-whisky-dataset
+Latitude converting
+https://rstudio-pubs-static.s3.amazonaws.com/375481_d2605e8726364d30a5b20c6974710cf5.html
+https://www.freemaptools.com/convert-uk-postcode-to-lat-lng.htm
