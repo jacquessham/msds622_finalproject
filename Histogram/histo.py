@@ -6,7 +6,7 @@ from plotly.offline import *
 # To initiate ploty to run offline
 init_notebook_mode(connected=True)
 
-price = pd.read_csv('price.csv')
+price = pd.read_csv('../Data/price.csv')
 
 price_tag = price['price'].tolist()
 """

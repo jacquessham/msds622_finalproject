@@ -7,7 +7,7 @@ from plotly.offline import *
 # To initiate ploty to run offline
 init_notebook_mode(connected=True)
 
-pop = pd.read_csv('uspop.csv')
+pop = pd.read_csv('../Data/uspop.csv')
 f = open('total_uspop.txt','r')
 total_uspop = int(f.read())
 pop['pop_prct'] = pop['population']*1.0/total_uspop
