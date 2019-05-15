@@ -21,5 +21,5 @@ I have used the following tools and visualization packages
 Please find the link [here](FinalProject_Sham_Jacques.pdf)
 <br>
 Interactive plots:
-* [Histogram](https://docs.google.com/presentation/d/1pGcgMWoiqTERHBkYR1KbP4FimYM5qcwJnMpXxr3Hy6I/edit?usp=sharing)
+* [Histogram](https://jacquessham.github.io/msds622_finalproject_histogram/)
 * [Boxplot](https://jacquessham.github.io/msds622_finalproject_boxplot/)
